@@ -1,10 +1,9 @@
 :root {
-    --temple-red-dark: rgb(136, 24, 45);
-    --bs-primary: #88182d;
-    --bs-primary-rgb: 158, 27, 52;
+    --temple-red-dark: #DA70D6;
+    --bs-primary: #DA70D6;
+    --bs-primary-rgb: 158, 27, 110;
     --bs-primary-dark: #721426;
-    --bs-primary-dark-rgb: 136, 24, 35;
-
+    --bs-primary-dark-rgb: 136,24,35;
 }
 
 .btn-primary {
@@ -25,7 +24,7 @@
 }
 
 .navbar {
-    --bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-active-color: #E0BFB8;
     --bs-navbar-padding-x: 0.1rem;
     --bs-navbar-padding-y: 0;
     --bs-navbar-brand-color: white;
